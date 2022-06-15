@@ -23,4 +23,8 @@ This is a static responsive portfolio website. TechStack used was HTML and CSS. 
 ## Resources
   * https://www.flaticon.com/search?word=portfolio
   * google images
+
+## Site Overview
+   **Deloyed in netlify**
+   * **link :** https://transcendent-axolotl-547d94.netlify.app/
   
